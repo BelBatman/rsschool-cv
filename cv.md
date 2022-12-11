@@ -42,4 +42,4 @@ alert( result );
    - Study in RSSCHOOL
 
 8. ## **English**
-   A2 _ (I take Streanline English courses)_
+   - A2 (I take Streanline English courses)
