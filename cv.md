@@ -37,5 +37,9 @@ alert( result );
    - CV3 CV. Cross-Check
 
 7. ## **Education**
+
    - University: Belarusian National Technical University, Electrical Engineer
    - Study in RSSCHOOL
+
+8. ## **English**
+   A2 _ (I take Streanline English courses)_
